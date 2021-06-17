@@ -2,7 +2,7 @@
 
 ### Here is an example of the document
 
-<img src="./assets/whoiam-1.png" alt="exemplo imagem" width="200px">
+<img src="./assets/whoiam-1.png" alt="exemplo imagem">
 <img src="./assets/whoiam-2-new.png" alt="exemplo imagem">
 
 > This file was aimed at learning basic elements
